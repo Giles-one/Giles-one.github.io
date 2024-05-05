@@ -1,0 +1,23 @@
+- class_name: 友链
+  # class_desc: 那些人，那些事
+  link_list:
+    - name: localhost
+      link: https://giles-one.github.io
+      avatar: https://giles-one.github.io/img/avatar.png
+      descr: ::1
+
+- class_name: 网站
+  # class_desc: 有用的工具
+  link_list:
+    - name: Linux System Call Table
+      link: https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
+      avatar: https://www.chromium.org/_assets/icon-chromium-96.png
+      descr: 在线系统调用查询表
+    - name: bootlin/elixir
+      link: https://elixir.bootlin.com/linux/v6.8.9/source/init/main.c#L1505
+      avatar: https://avatars.githubusercontent.com/u/18612850
+      descr: 在线源码
+    - name: Photopea
+      link: https://www.photopea.com/
+      avatar: https://www.photopea.com/promo/icon512.png
+      descr: 在线图片编辑
