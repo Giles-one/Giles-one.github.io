@@ -3,7 +3,7 @@
   link_list:
     - name: localhost
       link: https://giles-one.github.io
-      avatar: https://giles-one.github.io/img/avatar.png
+      avatar: https://giles-one.github.io/site/avatar.png
       descr: ::1
 
 - class_name: 网站
