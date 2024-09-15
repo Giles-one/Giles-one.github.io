@@ -202,7 +202,7 @@ flag{aaaaaaaaaa}
 
 ### Speedrun
 
-本文的贡献是介绍了利用编译的能力去创造出一个具有复杂执行流的shellcode的方法。全部的代码放到[这里](https://github.com/Giles-one/DeadSeaScrolls/YCB-pwn4)
+本文的贡献是介绍了利用编译的能力去创造出一个具有复杂执行流的shellcode的方法。全部的代码放到[这里](https://github.com/Giles-one/DeadSeaScrolls/tree/main/YCB-pwn4)
 
 ```
 $ make
