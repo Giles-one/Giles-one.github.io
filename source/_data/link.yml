@@ -1,13 +1,11 @@
 - class_name: 友链
-  # class_desc: 那些人，那些事
   link_list:
     - name: localhost
       link: https://giles-one.github.io
       avatar: https://giles-one.github.io/site/avatar.png
       descr: ::1
 
-- class_name: 网站
-  # class_desc: 有用的工具
+- class_name: 有用网站
   link_list:
     - name: Linux System Call Table
       link: https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
@@ -21,3 +19,8 @@
       link: https://www.photopea.com/
       avatar: https://www.photopea.com/promo/icon512.png
       descr: 在线图片编辑
+    - name: Compiler Explorer
+      link: https://godbolt.org/
+      avatar: https://godbolt.org/favicon.ico
+      descr: 在线图片编译
+    
