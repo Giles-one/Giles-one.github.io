@@ -22,5 +22,5 @@
     - name: Compiler Explorer
       link: https://godbolt.org/
       avatar: https://godbolt.org/favicon.ico
-      descr: 在线图片编译
+      descr: 在线编译
     
